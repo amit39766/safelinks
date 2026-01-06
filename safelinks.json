@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Google",
-    "url": "https://www.google.com",
-    "category": "Search",
-    "note": "",
-    "created": "2026-01-07"
-  },
-  {
     "id": 1767726210269,
     "title": "Youtube",
     "url": "www.youtube.com",
