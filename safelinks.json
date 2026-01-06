@@ -1,10 +1,10 @@
 [
   {
-    "Title": "Google",
-    "URL": "https://www.google.com"
-  },
-  {
-    "Title": "YouTube",
-    "URL": "https://www.youtube.com"
+    "id": 1,
+    "title": "Google",
+    "url": "https://www.google.com",
+    "category": "Search",
+    "note": "",
+    "created": "2026-01-07"
   }
 ]
