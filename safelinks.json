@@ -68,5 +68,10 @@
     "url": "https://translate.google.com/",
     "title": "Translate",
     "category": "General"
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PL8YFcn9EDAhSB8UIYqzzrEjpud71HsJkD",
+    "title": "Rubik's Cube",
+    "category": "General"
   }
 ]
