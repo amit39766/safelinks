@@ -63,5 +63,10 @@
     "url": "https://translate.google.com/?sl=en&tl=bn&op=translate",
     "title": "Translator",
     "category": "General"
+  },
+  {
+    "url": "https://translate.google.com/",
+    "title": "Translate",
+    "category": "General"
   }
 ]
