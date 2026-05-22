@@ -58,5 +58,10 @@
     "url": "https://www.youtube.com/playlist?list=PLxn7b7hlJpSZBNxZpZ-PTx_QZu7_kr1J3",
     "title": "Abacus in Bangla",
     "category": "Video"
+  },
+  {
+    "url": "https://translate.google.com/?sl=en&tl=bn&op=translate",
+    "title": "Translator",
+    "category": "General"
   }
 ]
