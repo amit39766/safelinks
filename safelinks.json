@@ -120,5 +120,15 @@
     "url": "file:///C:/Users/iamit/gitapath.mp4",
     "title": "gitapath",
     "category": "Video"
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLDrTATEEK78xw6qK1oWjqMphsZfuIm_hM",
+    "title": "Phonics chant",
+    "category": "Education"
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLDrTATEEK78wzpoiz1bt-lB9U_QaHsBgq",
+    "title": "Phonics sound of a-z",
+    "category": "Education"
   }
 ]
